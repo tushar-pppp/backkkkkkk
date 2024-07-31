@@ -1,0 +1,138 @@
+*{
+    padding: 0%;
+    margin: 0%;
+   cursor: pointer;
+}
+
+.pan{
+    background-color: whitesmoke;
+    width:60%;
+    height: 690px;
+position: absolute;
+left: 20%;
+top: 5%;
+box-shadow: 0px 0px 5px 5px gray ;
+}
+.create{
+    text-align: center;
+    font-size: 30px;
+}
+.pan2{
+    align-items: center;
+    display: flex;
+justify-content:center;
+margin-top: 8%;
+margin-left:1%;
+}
+input{
+    border: ;
+    padding: 0px 24px;
+}
+/*first name*/
+.first{
+    font-size: 20px;
+    text-align: left;
+    font-family: Arial;
+}
+/*i am*/
+.am{
+    font-size: 20px;
+    text-align: left;
+    font-family: Arial;
+}
+.nam1{
+    padding: 10px 94px;
+}
+/*am2*/
+.am2{
+    padding: 10px 118px;
+}
+/*p3*/
+.p3{
+    justify-content:cent;
+margin-top: 5%;
+margin-left: 8%;
+
+    display: flex;
+   
+}
+.klo{
+    margin-left:1%;
+    padding: 10px 99px;
+}
+.role{
+    font-size: 20px;
+    text-align: left;
+    font-family: Arial;
+}
+.r{
+    margin-left:0%;
+    padding:  10px 123px;
+}
+.last{
+    font-size: 20px;
+    text-align: left;
+    font-family: Arial;
+}
+/*p4*/
+.p4{
+    font-size: 20px;
+    text-align: left;
+    font-family: Arial;
+}
+.em{
+    
+    padding: 10px 113px;
+
+}/*p6*/
+.p6{
+    justify-content:center;
+    margin-top: 5%;
+    margin-left: 2%;
+        display: flex;
+}
+/*p7*/
+.p7{
+    font-size: 20px;
+    text-align: left;
+    font-family: Arial;
+}
+.p8{
+    margin-top: 5%;
+    margin-left: 7%;
+    display: flex;
+}
+.p10{
+    font-size: 20px;
+    text-align: left;
+    font-family: Arial;
+}
+.cem{
+    padding: 10px 113px;
+}
+.p11{
+    margin-top: 1%;
+}
+.p12{
+    margin-left: 40%;
+    padding:26px 30px;
+}
+.np{
+    padding:7px 40px;
+}
+.cre{
+    margin-left: 44%;
+    border: solid 2px rgb(4, 157, 184);
+    width: 238px;
+    padding: 6px 5px;
+    text-align: center;
+    color: aliceblue;
+    background-color: rgb(4, 157, 184);
+}
+.cre:hover{
+    border-color: orange;
+
+}
+input{
+    border: none;
+}
